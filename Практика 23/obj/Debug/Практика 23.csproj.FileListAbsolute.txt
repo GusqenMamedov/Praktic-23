@@ -1,0 +1,7 @@
+D:\is21\Практика 23\bin\Debug\Практика 23.exe.config
+D:\is21\Практика 23\bin\Debug\Практика 23.exe
+D:\is21\Практика 23\bin\Debug\Практика 23.pdb
+D:\is21\Практика 23\obj\Debug\Практика 23.csproj.AssemblyReference.cache
+D:\is21\Практика 23\obj\Debug\Практика 23.csproj.CoreCompileInputs.cache
+D:\is21\Практика 23\obj\Debug\Практика 23.exe
+D:\is21\Практика 23\obj\Debug\Практика 23.pdb
